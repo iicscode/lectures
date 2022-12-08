@@ -177,4 +177,5 @@ cout << p << endl;
     * 能容纳100个C++字符串的动态数组```names```。
 2. 什么是*内存泄漏*？
 3. 请自行了解什么是*浅拷贝*和*深拷贝*，C++默认使用了哪一种？结合数组、结构体和vector的赋值操作理解它们的不同之处。
+https://en.wikipedia.org/wiki/Object_copying#Methods_of_copying
 
